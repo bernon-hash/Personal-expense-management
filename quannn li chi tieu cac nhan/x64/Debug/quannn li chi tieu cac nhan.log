@@ -1,0 +1,7 @@
+﻿  quannn li chi tieu cac nhan.cpp
+C:\Users\thanh\source\repos\lab4\quannn li chi tieu cac nhan\quannn li chi tieu cac nhan\quannn li chi tieu cac nhan.cpp(155,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thanh\source\repos\lab4\quannn li chi tieu cac nhan\quannn li chi tieu cac nhan\quannn li chi tieu cac nhan.cpp(156,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thanh\source\repos\lab4\quannn li chi tieu cac nhan\quannn li chi tieu cac nhan\quannn li chi tieu cac nhan.cpp(163,45): warning C4101: 'e': unreferenced local variable
+C:\Users\thanh\source\repos\lab4\quannn li chi tieu cac nhan\quannn li chi tieu cac nhan\quannn li chi tieu cac nhan.cpp(220,11): warning C4101: 'amount': unreferenced local variable
+C:\Users\thanh\source\repos\lab4\quannn li chi tieu cac nhan\quannn li chi tieu cac nhan\quannn li chi tieu cac nhan.cpp(234,49): warning C4101: 'e': unreferenced local variable
+  quannn li chi tieu cac nhan.vcxproj -> C:\Users\thanh\source\repos\lab4\quannn li chi tieu cac nhan\x64\Debug\quannn li chi tieu cac nhan.exe
